@@ -5,7 +5,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>ASP.NET Core Web API Projects</b>
-  - <a href="https://github.com/kurellamanideep9009/TaskManagerApi">Task Manager API</a>
+  - <a href="https://github.com/kurellamanideep9009-rgb/TaskManagerApi">Task Manager API</a>
     <br/>
     A secure REST API built with ASP.NET Core Web API, Entity Framework Core, SQL Server, Identity, JWT Authentication, Swagger, Logging, and Global Exception Handling.
 
