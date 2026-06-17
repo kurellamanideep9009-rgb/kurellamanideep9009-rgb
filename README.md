@@ -5,10 +5,14 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>ASP.NET Core Web API Projects</b>
+  - <a href="https://github.com/kurellamanideep9009-rgb/SmartAskAI.Api">SmartAskAI Api</a>
+    <br/>
+    SmartAskAI.Api is a .NET 10 ASP.NET Core Web API that integrates with OpenAI to answer general user questions through a secured AI chat endpoint.
+      It includes JWT authentication, OpenAI .NET SDK integration, User Secrets configuration, Swagger/Scalar API testing, and centralized exception handling.
+
   - <a href="https://github.com/kurellamanideep9009-rgb/TaskManagerApi">Task Manager API</a>
     <br/>
     A secure REST API built with ASP.NET Core Web API, Entity Framework Core, SQL Server, Identity, JWT Authentication, Swagger, Logging, and Global Exception Handling.
-
 <h2>🛠️ Technical Skills:</h2>
 
 - <b>Languages:</b> C#, SQL, JavaScript, TypeScript
